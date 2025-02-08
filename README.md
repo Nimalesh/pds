@@ -21,7 +21,10 @@ after installing you can run the code
 ## Data Preparation
 Change the directory accordinlg
 Ensure you have the dataset files (`train.csv`, `test.csv`, and `series_train.parquet`) in the correct directory.
-
+## Run in kaggle:
+### you can access https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data?select=test.csv this link to access the dataset and run in kaggle
+## Run in local:
+### you can access 
 ## Running the Code
 
 
