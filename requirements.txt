@@ -1,0 +1,17 @@
+numpy
+pandas
+polars
+scikit-learn
+lightgbm
+xgboost
+catboost
+torch
+pytorch-tabnet
+scipy
+matplotlib
+seaborn
+tqdm
+colorama
+keras
+torchvision
+torchtext
